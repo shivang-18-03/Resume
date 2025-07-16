@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    color: rgb(138, 61, 159);
+}
+#info{
+    text-align: center;
+}
+hr{
+    text-align: center;
+    color: rgb(138, 61, 159);
+    margin: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border: 1px solid rgb(138, 61, 159);
+}
+h2{
+    margin: 20px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    color: rgb(138, 61, 159);
+}
+p{
+    margin: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h3{
+    font-weight: bold;
+    margin-left: 22px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+ul{
+    margin: 24px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.main{
+    border-color: black;
+    border: 5px;
+    border-style: double;
+    margin: 100px;
+    background-color:whitesmoke;
+}
+.Project_Heading{
+    font-weight: bold;
+}
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; 
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.skills li {
+  margin-right: 10px;
+}
